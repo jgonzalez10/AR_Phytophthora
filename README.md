@@ -1,2 +1,2 @@
 # AR_Phytophthora
-This repository contains some of the scripts and instructions for the statistical analyses implemented in the following paper:
+This repository contains some of the scripts and instructions for the statistical analyses implemente.
